@@ -57,7 +57,7 @@ just_the_docs:
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
-theme: minima
+theme: 
 plugins:
   - jekyll-feed
 
