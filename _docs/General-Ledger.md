@@ -2,6 +2,7 @@
 layout: post
 title:  "General Ledger"
 nav_order: 3
+has_toc: true
 ---
 
 # General Ledger
