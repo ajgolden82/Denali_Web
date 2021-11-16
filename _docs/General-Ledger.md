@@ -5,12 +5,7 @@ nav_order: 3
 has_toc: true
 ---
 
-##### Table of Contents  
-[General Ledger](#general-ledger)
-  [Account Maintenance] (#account-maintenance)
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
+{:toc}
 ## Headers
 
 # General Ledger
