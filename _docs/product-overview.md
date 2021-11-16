@@ -3,7 +3,7 @@ layout: post
 title:  "Denali Web Overview"
 nav_order: 2
 ---
-# Denali Web Overview
+# Denali Web Home
 
 ## ?
 ArcBill is a cloud-based app that gives you end-to-end control of bill management, invoicing, customer payments, etc. Use our REST API to integrate ArcBill with your accounting software to streamline the billing and payment process.
