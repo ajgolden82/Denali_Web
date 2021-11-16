@@ -6,6 +6,7 @@ has_toc: true
 ---
 
 * Do not remove this line (it will not be displayed)
+- TOC
 {:toc}
 
 # General Ledger
