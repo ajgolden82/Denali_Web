@@ -10,3 +10,5 @@ nav_order: 1
 # Denali Web
 
 this is the home page. Denali web includes General Ledger, Accounts Payable, and Payroll
+
+Maybe some contact info or links to some websites?
