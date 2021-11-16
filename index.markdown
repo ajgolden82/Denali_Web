@@ -7,6 +7,6 @@ title: Home
 nav_order: 1
 
 ---
-# Using Our API
+# Denali Web
 
-this is the home page. ArcBill homepage stuff.
+this is the home page. Denali web includes General Ledger, Accounts Payable, and Payroll
