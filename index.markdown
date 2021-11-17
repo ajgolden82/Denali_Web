@@ -19,5 +19,8 @@ Maybe some contact info or links to some websites?
 
 
 <span class="fs-8">
-[General Ledger](https://ajgolden82.github.io/Denali_Web/docs/General-Ledger.html){: .btn .btn-blue }
+[General Ledger](https://ajgolden82.github.io/Denali_Web/docs/General-Ledger.html){: .btn .mr2 }
+</span>
+<span class="fs-8">
+[Accounts Payable](https://ajgolden82.github.io/Denali_Web/docs/Accounts-Payable.html){: .btn .mr2 }
 </span>
