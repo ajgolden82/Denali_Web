@@ -8,11 +8,16 @@ nav_order: 1
 
 
 ---
+<div align="center">
 # **Denali Web**
-{: .fs-10}
+{: .fs-12}
+</div>
 
 this is the home page. Denali web includes General Ledger, Accounts Payable, and Payroll
 
 Maybe some contact info or links to some websites?
 
+
+<span class="fs-8">
 [General Ledger] (https://ajgolden82.github.io/Denali_Web/docs/General-Ledger.html) {: .btn .btn-blue }
+</span>
