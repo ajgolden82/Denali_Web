@@ -9,6 +9,7 @@ nav_order: 1
 
 ---
 # Denali Web
+{: fs-10}
 
 this is the home page. Denali web includes General Ledger, Accounts Payable, and Payroll
 
