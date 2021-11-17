@@ -5,12 +5,11 @@ nav_order: 3
 has_toc: true
 ---
 
-* Do not remove this line (it will not be displayed)
-
 
 # General Ledger
 General Ledger does this stuff.
 
+Table of Contents
 - TOC
 {:toc}
 
