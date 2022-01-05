@@ -17,6 +17,11 @@ this is the home page. Denali web includes General Ledger, Accounts Payable, and
 
 Maybe some contact info or links to some websites?
 
+blah
+blah
+blah
+
+
 
 <span class="fs-8">
 [General Ledger](https://ajgolden82.github.io/Denali_Web/docs/General-Ledger.html){: .btn .mr2 }
