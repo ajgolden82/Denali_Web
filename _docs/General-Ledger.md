@@ -10,8 +10,8 @@ has_toc: true
 General Ledger does this stuff.
 
 Table of Contents
-- TOC
-{toc}
+ TOC
+{:toc}
 
 ## Account Maintenance
 Account Maintenance is where you can set up and view all of your ledger accounts. Some general info about the main screen.
